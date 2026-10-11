@@ -100,7 +100,7 @@ const dipesh = {
 | :--- | :--- | :--- |
 | **✨ AURA — Luxury Salon & Bridal Lounge** | **Full-Stack Startup Platform** with dynamic real-time slot locking, WhatsApp concierge pass generator, executive director revenue analytics, and mandatory 2FA Gmail OTP authentication.<br>`React 18` • `Vite` • `Tailwind CSS` • `Node.js` • `PHP REST` • `Gmail SMTP` | 🌐 [Live Demo](https://auraa.kesug.com)<br>📂 [Source Code](https://github.com/dipeshsah51/aura-luxury-salon) |
 | **🏢 Genting Services & Contracting (GSC)** | **Official Web Application & System for Genting Services & Contracting W.L.L. (Doha, Qatar)**. Complete corporate facility management portal with service workflows and client interfaces.<br>`React 19` • `Vite` • `Node.js` • `Express` • `MongoDB` | 📂 [Source Code](https://github.com/dipeshsah51/GSC-Website) |
-| **🛍️ Trend-Nest Modern E-Commerce** | **High-Converting E-Commerce Web Store** featuring interactive product catalogs, dynamic cart state management, checkout flows, and responsive luxury styling.<br>`React.js` • `Tailwind CSS` • `REST APIs` • `JavaScript` | 📂 [Source Code](https://github.com/dipeshsah51/Trend-Nest) |
+| **🛍️ Modern E-Commerce Platform** | **Full-Featured E-Commerce Web Application** featuring responsive product showcases, stateful shopping cart workflows, modular UI components, and modern frontend architecture.<br>`React.js` • `JavaScript` • `Tailwind CSS` • `REST APIs` | 📂 [Source Code](https://github.com/dipeshsah51/ecommerce-website) |
 
 ---
 
